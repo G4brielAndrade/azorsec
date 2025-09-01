@@ -3,8 +3,8 @@
 Este projeto é um frontend em React (Vite) com Tailwind CSS e componentes shadcn/ui.
 
 ## Requisitos
-- Node.js 18+ (você tem v18.16.1)
-- pnpm 8+ (você tem 10.15.0)
+- Node.js 18+
+- pnpm 8+ 
 - Visual Studio Code
 
 ## Como rodar
